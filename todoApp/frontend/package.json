@@ -9,14 +9,19 @@
     },
     "dependencies": {
         "react": "17.0.2",
+        "eslint": "latest",
+        "dependency1": "latest",
+        "dependency2": "axios:0.21.1",
+        "dependency3": "react:17.0.2",
+        "axios": "0.21.1",
         "lodash": "4.17.21",
-        "express": "latest",
-        "eslint": "latest"
+        "express": "latest"
     },
     "devDependencies": {
-        "react": "17.0.2",
         "webpack": "latest",
-        "eslint": "latest"
+        "react": "17.0.2",
+        "eslint": "7.32.0",
+        "axios": "0.24.0"
     },
     "browserslist": {
         "production": [
